@@ -19,3 +19,19 @@ The addition of time adds an important new dimension to programming. Cubes aren�
 para a necessidade de modificações futuras, pensando nos riscos das escolhas durante a confecção de uma estrutura de software.
 
 # Projeto
+
+-Especificacao
+
+![Especificacao](https://github.com/pedrohenribeiro/bertoti/assets/126246097/d55540fc-5575-4fb0-b20d-fb15ab696fdd)
+
+
+-Escola
+
+
+![Escola](https://github.com/pedrohenribeiro/bertoti/assets/126246097/5d144acc-4922-4614-894b-e2f2b4bc25d2)
+
+
+-Aluno
+
+
+![Aluno](https://github.com/pedrohenribeiro/bertoti/assets/126246097/38d3d4c6-7f90-4a09-924e-5c3e02df6e65)
