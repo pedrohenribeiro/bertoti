@@ -40,5 +40,5 @@ para a necessidade de modificações futuras, pensando nos riscos das escolhas d
 <h1 align="center"> Diagrama de Classes </h1>
 
 
-![Diagrama](https://github.com/pedrohenribeiro/bertoti/assets/126246097/fba6cd1e-9e8b-4aff-9272-bcf30ecd6701)
+![Diagrama drawio](https://github.com/pedrohenribeiro/bertoti/assets/126246097/70aab8b7-d9e4-4d32-ac15-d26c44436134)
 
