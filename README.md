@@ -22,7 +22,8 @@ para a necessidade de modificações futuras, pensando nos riscos das escolhas d
 
 -Especificacao
 
-![Especificacao](https://github.com/pedrohenribeiro/bertoti/assets/126246097/d55540fc-5575-4fb0-b20d-fb15ab696fdd)
+
+![Especificacao](https://github.com/pedrohenribeiro/bertoti/assets/126246097/8ca5b377-47cd-4f28-8b30-c5abdb08dc26)
 
 
 -Escola
